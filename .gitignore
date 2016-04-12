@@ -1,0 +1,4 @@
+target/*
+.idea/*
+*.iml
+streamsets-datacollector-azure-lib/
